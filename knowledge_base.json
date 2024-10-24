@@ -1,0 +1,251 @@
+{
+  "sections": [
+    {
+      "name": "👨🏻‍💻 Административная работа",
+      "topics": [
+        {
+          "title": "Визиты",
+          "subtopics": [
+            {
+              "title": "Создание визитов для пациентов",
+              "link": "https://help.rnova.org/t1650443288/vizity/sozdanie-vizitov-dlya-pacientov"
+            },
+            {
+              "title": "Перенос визитов",
+              "link": "https://help.rnova.org/t1650443288/vizity/perenos-vizitov"
+            },
+            {
+              "title": "Отмена визитов",
+              "link": "https://help.rnova.org/t1650443288/vizity/otmena-vizitov"
+            },
+            {
+              "title": "Ежедневный отчет",
+              "link": "https://help.rnova.org/t1650443288/vizity/ezhednevnyj-otchet"
+            }
+          ]
+        },
+        {
+          "title": "Персонал",
+          "subtopics": [
+            {
+              "title": "Работа с графиком работы",
+              "link": "https://help.rnova.org/t1650443288/personal/rabota-s-grafikami-sotrudnikov"
+            },
+            {
+              "title": "Категории расписания и отмены приема",
+              "link": "https://help.rnova.org/t1650443288/personal/kategorii-raspisaniya-i-otmeny-priema"
+            }
+          ]
+        },
+        {
+          "title": "Картотека",
+          "subtopics": [
+            {
+              "title": "Карта пациента",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/karta-pacienta"
+            },
+            {
+              "title": "Категории пациентов",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/kategorii-pacientov"
+            },
+            {
+              "title": "Рекламные каналы",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/reklamnye-kanaly"
+            },
+            {
+              "title": "Справка в налоговую",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/novaya-forma-spravki-v-nalogovuyu"
+            },
+            {
+              "title": "Объединение карточек и справочников",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/ob-edinenie-kartochek-i-spravochnikov"
+            },
+            {
+              "title": "Удаление и восстановление пациентов из корзины",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/udalenie-i-vosstanovlenie-pacientov-iz-korziny"
+            }
+          ]
+        },
+        {
+          "title": "Касса",
+          "subtopics": [
+            {
+              "title": "Создание, оплата и возврат счетов пациентов",
+              "link": "https://help.rnova.org/t1650443288/kassa/sozdanie-oplata-i-vozvrat-schetov-pacientov"
+            },
+            {
+              "title": "Работа с кошельком пациента",
+              "link": "https://help.rnova.org/t1650443288/kassa/rabota-s-koshel-kom-pacienta"
+            },
+            {
+              "title": "Способы оплаты счетов пациентов",
+              "link": "https://telegra.ph/Sposoby-oplaty-schetov-10-13"
+            },
+            {
+              "title": "Ошибки при работе с модулем Касса",
+              "link": "https://help.rnova.org/faq-chasto-zadavaemye-voprosy/oshibki-pri-rabote-s-modulem-kassa"
+            },
+            {
+              "title": "Ошибки связи с ККМ и терминалом",
+              "link": "https://help.rnova.org/faq-chasto-zadavaemye-voprosy/oshibki-svyazi-s-kkm-i-terminalom"
+            }
+          ]
+        },
+        {
+          "title": "Телефония",
+          "subtopics": [
+            {
+              "title": "Работа с телефонией",
+              "link": "https://help.rnova.org/t1650443288/zvonki/rabota-s-telefoniej"
+            }
+          ]
+        },
+        
+        {
+          "title": "Интеграции",
+          "subtopics": [
+            {
+              "title": "Настройка виджетов для сайта",
+              "link": "https://help.rnova.org/t1650443288/integracii/nastrojka-vidzhetov-dlya-sajta"
+            },
+            {
+              "title": "Подключение СМС-агрегаторов",
+              "link": "https://help.rnova.org/t1650443288/integracii/podklyuchenie-sms-agregatorov"
+            },
+            {
+              "title": "Подключение почтового отправителя",
+              "link": "https://help.rnova.org/t1650443288/integracii/podklyucheniya-pochtovogo-otpravitelya"
+            },
+            {
+              "title": "Подключение к ЕГИСЗ",
+              "link": "https://help.rnova.org/t1650443288/integracii/podklyuchenie-k-egisz"
+            },
+            {
+              "title": "Установка КриптоПро и ЭЦП",
+              "link": "https://help.rnova.org/t1650443288/integracii/ustanovka-kriptopro-i-ecp"
+            },
+            {
+              "title": "Работа со справочниками",
+              "link": "https://help.rnova.org/t1650443288/integracii/rabota-so-spravochnikami"
+            },
+            {
+              "title": "Работа с интеграциями",
+              "link": "https://help.rnova.org/t1650443288/integracii/rabota-s-integraciyami"
+            },
+            {
+              "title": "Подключение WhatsApp рассылки",
+              "link": "https://help.rnova.org/t1650443288/integracii/podklyuchenie-imobis"
+            }
+          ]
+        },
+        {
+          "title": "Настройки",
+          "subtopics": [
+            { 
+              "title": "Настройки визитов",
+              "link": "https://help.rnova.org/t1650443288/nastrojki/nastrojki-vizitov"
+            },
+            {
+              "title": "Работа с правами доступа",
+              "link": "https://help.rnova.org/t1650443288/nastrojki/rabota-s-pravami-dostupa"
+            },
+            {
+              "title": "Оплаты",
+              "link": "https://help.rnova.org/t1650443288/nastrojki/oplaty"
+            }
+          ]
+        },
+        {
+          "title": "Пополнение баланса МИС",
+          "subtopics": [
+            {
+              "title": "Зачисление платежей",
+              "link": "https://help.rnova.org/faq-chasto-zadavaemye-voprosy/zachislenie-platezhej"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🩺 Врачебная работа",
+      "topics": [
+        {
+          "title": "Работа с ЕГИСЗ",
+          "subtopics": [
+            {
+              "title": "Заполнение врачебных документов пациента для отправки в ЕГИСЗ ",
+              "link": "https://help.rnova.org/rabota-vracha/zapolnenie-vrachebnyh-dokumentov-pacienta-dlya-otpravki-v-egisz"
+            },
+            {
+              "title": "Заполнение врачебных документов пациента для отправки в ЕГИСЗ ",
+              "link": "https://help.rnova.org/rabota-vracha/zapolnenie-vrachebnyh-dokumentov-pacienta-dlya-otpravki-v-egisz"
+            },
+            {
+              "title": "Ошибки при отправке данных в ЕГИСЗ",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/oshibki-pri-otpravke-dannyh-v-egisz"
+            },
+            {
+              "title": "Отправка данных по личной медицинской книжке",
+              "link": "https://help.rnova.org/populyarnye-stat-i/registraciya-i-otpravka-dannyh-po-lichnoj-medicinskoj-knizhke-230-forma-semd"
+            }
+
+           
+          ]
+        },
+        {
+          "title": "Услуги",
+          "subtopics": [
+            {
+              "title": "Описание раздела",
+              "link": "https://help.rnova.org/t1650443288/uslugi/opisanie-razdela"
+            },
+            {
+              "title": "Добавление новых услуг",
+              "link": "https://help.rnova.org/t1650443288/uslugi/dobavlenie-novyh-uslug"
+            },
+            {
+              "title": "Работа с шаблонами планов лечения",
+              "link": "https://help.rnova.org/t1650443288/uslugi/rabota-s-shablonami-planov-lecheniya"
+            },
+            {
+              "title": "Клинические рекомендации",
+              "link": "https://help.rnova.org/t1650443288/uslugi/klinichekie-rekomandacii"
+            }
+
+           
+          ]
+        },
+        {
+          "title": "Визиты",
+          "subtopics": [
+            {
+              "title": "Визиты - описание раздела",
+              "link": "https://help.rnova.org/t1650443288/vizity/opisanie-razdela"
+            }
+           
+          ]
+        },
+        {
+          "title": "Картотека",
+          "subtopics": [
+            {
+              "title": "Карта пациента",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/karta-pacienta"
+            },
+            {
+              "title": "Журнал документов",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/zhurnal-dokumentov"
+            },
+            {
+              "title": "Работа с зубной картой",
+              "link": "https://help.rnova.org/t1650443288/kartoteka/rabota-s-zubnoj-kartoj"
+            }
+           
+          ]
+        }
+      ]
+    }
+   
+    
+  ]
+}
